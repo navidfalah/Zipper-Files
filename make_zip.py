@@ -1,6 +1,5 @@
 import os
 import zipfile
-import shutil
 import json
 from datetime import datetime
 
