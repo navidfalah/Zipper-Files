@@ -1,0 +1,2564 @@
+{
+  "batches": [
+    {
+      "batch_number": 1,
+      "zip_filename": "batch_1.zip",
+      "log_data": {
+        "files": [
+          {
+            "name": "junk_file_92.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:09"
+          },
+          {
+            "name": "junk_file_16.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:09"
+          },
+          {
+            "name": "junk_file_241.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:09"
+          },
+          {
+            "name": "junk_file_268.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:09"
+          },
+          {
+            "name": "junk_file_144.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:09"
+          },
+          {
+            "name": "junk_file_266.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:09"
+          },
+          {
+            "name": "junk_file_385.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:09"
+          },
+          {
+            "name": "junk_file_213.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:09"
+          },
+          {
+            "name": "junk_file_360.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:09"
+          },
+          {
+            "name": "junk_file_366.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:09"
+          },
+          {
+            "name": "junk_file_252.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:09"
+          },
+          {
+            "name": "junk_file_311.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:09"
+          },
+          {
+            "name": "junk_file_133.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:09"
+          },
+          {
+            "name": "junk_file_21.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:09"
+          },
+          {
+            "name": "junk_file_10.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:09"
+          },
+          {
+            "name": "junk_file_42.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:09"
+          },
+          {
+            "name": "junk_file_128.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:09"
+          },
+          {
+            "name": "junk_file_204.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:09"
+          },
+          {
+            "name": "junk_file_377.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:09"
+          },
+          {
+            "name": "junk_file_356.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:09"
+          }
+        ]
+      }
+    },
+    {
+      "batch_number": 2,
+      "zip_filename": "batch_2.zip",
+      "log_data": {
+        "files": [
+          {
+            "name": "junk_file_162.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_354.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_286.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_66.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_37.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_130.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_282.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_310.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_81.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:09",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_27.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_155.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_188.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_69.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_138.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_165.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_206.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_4.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_308.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_143.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_50.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          }
+        ]
+      }
+    },
+    {
+      "batch_number": 3,
+      "zip_filename": "batch_3.zip",
+      "log_data": {
+        "files": [
+          {
+            "name": "junk_file_372.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_127.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_131.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_55.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_64.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_348.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_285.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_270.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_1.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_240.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_121.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_277.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_90.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_353.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_293.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_22.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_352.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_100.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_43.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_47.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          }
+        ]
+      }
+    },
+    {
+      "batch_number": 4,
+      "zip_filename": "batch_4.zip",
+      "log_data": {
+        "files": [
+          {
+            "name": "junk_file_29.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_105.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_233.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_292.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_295.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_89.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_296.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_136.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_343.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_332.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_18.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_301.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_283.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_263.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_49.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_224.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_11.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_176.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_271.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_12.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          }
+        ]
+      }
+    },
+    {
+      "batch_number": 5,
+      "zip_filename": "batch_5.zip",
+      "log_data": {
+        "files": [
+          {
+            "name": "junk_file_365.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_368.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_179.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_253.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_333.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_257.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_239.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_234.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_5.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_65.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_260.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_327.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_151.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_113.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_134.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_246.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_187.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_273.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_397.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          },
+          {
+            "name": "junk_file_45.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:10"
+          }
+        ]
+      }
+    },
+    {
+      "batch_number": 6,
+      "zip_filename": "batch_6.zip",
+      "log_data": {
+        "files": [
+          {
+            "name": "junk_file_227.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_112.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_78.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_394.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:10",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_197.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_198.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_275.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_258.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_166.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_61.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_336.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_290.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_388.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_367.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_125.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_208.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_169.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_103.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_91.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_381.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          }
+        ]
+      }
+    },
+    {
+      "batch_number": 7,
+      "zip_filename": "batch_7.zip",
+      "log_data": {
+        "files": [
+          {
+            "name": "junk_file_355.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_363.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_250.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_75.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_256.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_387.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_145.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_325.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_324.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_170.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_207.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_137.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_281.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_26.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_389.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_349.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_182.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_2.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_345.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_195.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          }
+        ]
+      }
+    },
+    {
+      "batch_number": 8,
+      "zip_filename": "batch_8.zip",
+      "log_data": {
+        "files": [
+          {
+            "name": "junk_file_135.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_196.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_72.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_83.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_251.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_68.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_82.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_223.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_221.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_335.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_56.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_185.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_248.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_315.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_186.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_129.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_398.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_305.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_346.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_149.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          }
+        ]
+      }
+    },
+    {
+      "batch_number": 9,
+      "zip_filename": "batch_9.zip",
+      "log_data": {
+        "files": [
+          {
+            "name": "junk_file_104.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_319.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_124.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_115.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_259.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_370.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_116.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_109.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_242.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_362.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_23.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_364.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_99.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_39.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_399.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_41.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_146.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_48.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_15.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_51.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          }
+        ]
+      }
+    },
+    {
+      "batch_number": 10,
+      "zip_filename": "batch_10.zip",
+      "log_data": {
+        "files": [
+          {
+            "name": "junk_file_167.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_161.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_30.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_154.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_142.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_7.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_235.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_400.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_232.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_25.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_254.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_225.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_347.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_163.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_6.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_375.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_174.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_59.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_382.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          },
+          {
+            "name": "junk_file_140.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:11"
+          }
+        ]
+      }
+    },
+    {
+      "batch_number": 11,
+      "zip_filename": "batch_11.zip",
+      "log_data": {
+        "files": [
+          {
+            "name": "junk_file_28.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_35.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_119.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:11",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_24.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_98.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_190.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_297.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_371.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_62.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_171.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_249.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_298.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_74.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_304.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_191.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_218.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_226.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_200.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_180.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_237.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          }
+        ]
+      }
+    },
+    {
+      "batch_number": 12,
+      "zip_filename": "batch_12.zip",
+      "log_data": {
+        "files": [
+          {
+            "name": "junk_file_132.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_269.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_110.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_86.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_52.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_318.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_264.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_181.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_302.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_380.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_192.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_307.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_168.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_159.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_96.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_351.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_217.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_229.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_84.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_147.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          }
+        ]
+      }
+    },
+    {
+      "batch_number": 13,
+      "zip_filename": "batch_13.zip",
+      "log_data": {
+        "files": [
+          {
+            "name": "junk_file_120.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_306.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_108.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_97.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_339.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_73.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_71.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_189.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_183.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_334.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_211.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_228.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_32.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_172.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_36.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_391.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_60.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_173.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_358.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          },
+          {
+            "name": "junk_file_152.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:12"
+          }
+        ]
+      }
+    },
+    {
+      "batch_number": 14,
+      "zip_filename": "batch_14.zip",
+      "log_data": {
+        "files": [
+          {
+            "name": "junk_file_231.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_379.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_111.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_357.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_114.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_19.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_322.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:12",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_93.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_57.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_205.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_276.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_107.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_265.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_106.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_338.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_40.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_9.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_316.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_184.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_384.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          }
+        ]
+      }
+    },
+    {
+      "batch_number": 15,
+      "zip_filename": "batch_15.zip",
+      "log_data": {
+        "files": [
+          {
+            "name": "junk_file_214.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_312.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_280.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_79.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_330.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_392.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_178.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_215.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_3.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_245.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_261.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_101.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_317.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_230.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_58.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_67.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_284.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_238.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_31.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_390.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          }
+        ]
+      }
+    },
+    {
+      "batch_number": 16,
+      "zip_filename": "batch_16.zip",
+      "log_data": {
+        "files": [
+          {
+            "name": "junk_file_141.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_383.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_209.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_220.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_243.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_321.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_247.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_396.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_8.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_342.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_378.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_344.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_33.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_158.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_326.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_95.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_320.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_177.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_118.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          },
+          {
+            "name": "junk_file_331.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:13"
+          }
+        ]
+      }
+    },
+    {
+      "batch_number": 17,
+      "zip_filename": "batch_17.zip",
+      "log_data": {
+        "files": [
+          {
+            "name": "junk_file_46.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_80.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_341.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_126.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_328.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_279.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_323.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_199.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_267.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_139.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_212.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_361.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_201.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_153.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_122.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_160.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:13",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_87.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_373.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_14.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_123.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          }
+        ]
+      }
+    },
+    {
+      "batch_number": 18,
+      "zip_filename": "batch_18.zip",
+      "log_data": {
+        "files": [
+          {
+            "name": "junk_file_300.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_289.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_314.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_70.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_303.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_291.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_17.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_376.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_287.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_148.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_294.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_313.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_272.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_77.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_288.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_157.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_53.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_359.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_222.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_255.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          }
+        ]
+      }
+    },
+    {
+      "batch_number": 19,
+      "zip_filename": "batch_19.zip",
+      "log_data": {
+        "files": [
+          {
+            "name": "junk_file_164.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_274.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_329.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_76.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_194.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_20.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_193.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_156.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_350.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_374.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_38.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_210.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_88.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_175.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_395.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_102.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_85.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_117.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_386.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          },
+          {
+            "name": "junk_file_340.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:14"
+          }
+        ]
+      }
+    },
+    {
+      "batch_number": 20,
+      "zip_filename": "batch_20.zip",
+      "log_data": {
+        "files": [
+          {
+            "name": "junk_file_13.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:15"
+          },
+          {
+            "name": "junk_file_54.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:15"
+          },
+          {
+            "name": "junk_file_244.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:15"
+          },
+          {
+            "name": "junk_file_203.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:14",
+            "removed_at": "2023-12-22 16:19:15"
+          },
+          {
+            "name": "junk_file_44.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:15",
+            "removed_at": "2023-12-22 16:19:15"
+          },
+          {
+            "name": "junk_file_202.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:15",
+            "removed_at": "2023-12-22 16:19:15"
+          },
+          {
+            "name": "junk_file_236.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:15",
+            "removed_at": "2023-12-22 16:19:15"
+          },
+          {
+            "name": "junk_file_94.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:15",
+            "removed_at": "2023-12-22 16:19:15"
+          },
+          {
+            "name": "junk_file_216.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:15",
+            "removed_at": "2023-12-22 16:19:15"
+          },
+          {
+            "name": "junk_file_34.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:15",
+            "removed_at": "2023-12-22 16:19:15"
+          },
+          {
+            "name": "junk_file_219.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:15",
+            "removed_at": "2023-12-22 16:19:15"
+          },
+          {
+            "name": "junk_file_278.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:15",
+            "removed_at": "2023-12-22 16:19:15"
+          },
+          {
+            "name": "junk_file_393.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:15",
+            "removed_at": "2023-12-22 16:19:15"
+          },
+          {
+            "name": "junk_file_262.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:15",
+            "removed_at": "2023-12-22 16:19:15"
+          },
+          {
+            "name": "junk_file_337.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:15",
+            "removed_at": "2023-12-22 16:19:15"
+          },
+          {
+            "name": "junk_file_309.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:15",
+            "removed_at": "2023-12-22 16:19:15"
+          },
+          {
+            "name": "junk_file_63.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:15",
+            "removed_at": "2023-12-22 16:19:15"
+          },
+          {
+            "name": "junk_file_299.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:15",
+            "removed_at": "2023-12-22 16:19:15"
+          },
+          {
+            "name": "junk_file_369.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:15",
+            "removed_at": "2023-12-22 16:19:15"
+          },
+          {
+            "name": "junk_file_150.txt",
+            "created_at": "2023-12-22 16:19:06",
+            "compressed_at": "2023-12-22 16:19:15",
+            "removed_at": "2023-12-22 16:19:15"
+          }
+        ]
+      }
+    }
+  ]
+}
